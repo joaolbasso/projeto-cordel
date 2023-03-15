@@ -50,10 +50,12 @@ header > p > a:hover {
 
 section {
     font-family: var(--fonte-3);
-    font-size: 3em;
-    padding-top: 30px;
+    font-size: 5em;
+    padding-top: 10vh;
     padding-left: 30px;
+    padding-bottom: 10vh;
     line-height: 2em;
+    margin: auto;
 }
 
 .imagem#img01 {
@@ -80,4 +82,33 @@ section.imagem > p {
     background-color: rgba(0, 0, 0, 0.486);
     text-shadow: 1px 1px 0px black;;
 }
+
+section > p {
+    padding-bottom: 2em;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin: auto;
+    font-size: 1.5em;
+    padding: 15px;
+}
+
+footer > a {
+    text-decoration: none;
+    color:white;
+    font-weight: bolder;
+}
+
+footer > a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
 
