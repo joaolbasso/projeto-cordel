@@ -59,12 +59,12 @@ section {
 }
 
 .imagem#img01 {
-    background-image: url(../imagens/background001.jpg);
+    background-image: url('../imagens/background001.jpg');
     background-position: right center;
 }
 
 .imagem#img02 {
-    background-image: url(../imagens/background002.jpg);
+    background-image: url('../imagens/background002.jpg');
     background-position: right center;
 }
 
